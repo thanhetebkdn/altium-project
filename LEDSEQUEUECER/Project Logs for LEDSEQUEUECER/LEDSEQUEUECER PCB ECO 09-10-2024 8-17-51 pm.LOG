@@ -1,0 +1,31 @@
+Change Component Footprint: Designator=D1 Old Footprint=3.2X1.6X1.1 New Footprint=LED_5mm_RED
+Change Component Footprint: Designator=D2 Old Footprint=3.2X1.6X1.1 New Footprint=LED_5mm_RED
+Change Component Footprint: Designator=D3 Old Footprint=3.2X1.6X1.1 New Footprint=LED_5mm_RED
+Change Component Footprint: Designator=D4 Old Footprint=3.2X1.6X1.1 New Footprint=LED_5mm_RED
+Change Component Footprint: Designator=D5 Old Footprint=3.2X1.6X1.1 New Footprint=LED_5mm_RED
+Change Component Footprint: Designator=D6 Old Footprint=3.2X1.6X1.1 New Footprint=LED_5mm_RED
+Change Component Footprint: Designator=D7 Old Footprint=3.2X1.6X1.1 New Footprint=LED_5mm_RED
+Change Component Footprint: Designator=D8 Old Footprint=3.2X1.6X1.1 New Footprint=LED_5mm_RED
+Change Component Footprint: Designator=D9 Old Footprint=3.2X1.6X1.1 New Footprint=LED_5mm_RED
+Change Component Footprint: Designator=D10 Old Footprint=3.2X1.6X1.1 New Footprint=LED_5mm_RED
+Change Component Comment : Designator=D1 Old Comment=LED2 New Comment=LED_5mm_RED
+Change Component Comment : Designator=D2 Old Comment=LED2 New Comment=LED_5mm_RED
+Change Component Comment : Designator=D3 Old Comment=LED2 New Comment=LED_5mm_RED
+Change Component Comment : Designator=D4 Old Comment=LED2 New Comment=LED_5mm_RED
+Change Component Comment : Designator=D5 Old Comment=LED2 New Comment=LED_5mm_RED
+Change Component Comment : Designator=D6 Old Comment=LED2 New Comment=LED_5mm_RED
+Change Component Comment : Designator=D7 Old Comment=LED2 New Comment=LED_5mm_RED
+Change Component Comment : Designator=D8 Old Comment=LED2 New Comment=LED_5mm_RED
+Change Component Comment : Designator=D9 Old Comment=LED2 New Comment=LED_5mm_RED
+Change Component Comment : Designator=D10 Old Comment=LED2 New Comment=LED_5mm_RED
+Change Component Designator: OldDesignator=  NewDesignator=R13
+Change component parameters: Designator = "D1" ("D1"); Footprint = "3.2X1.6X1.1"; UniqueID = "\ZWOKAETK" ("\ZWOKAETK")
+Change component parameters: Designator = "D2" ("D2"); Footprint = "3.2X1.6X1.1"; UniqueID = "\TUKIKVLY" ("\TUKIKVLY")
+Change component parameters: Designator = "D3" ("D3"); Footprint = "3.2X1.6X1.1"; UniqueID = "\XDXDEQZD" ("\XDXDEQZD")
+Change component parameters: Designator = "D4" ("D4"); Footprint = "3.2X1.6X1.1"; UniqueID = "\EWTDPJAQ" ("\EWTDPJAQ")
+Change component parameters: Designator = "D5" ("D5"); Footprint = "3.2X1.6X1.1"; UniqueID = "\KZOINXUL" ("\KZOINXUL")
+Change component parameters: Designator = "D6" ("D6"); Footprint = "3.2X1.6X1.1"; UniqueID = "\NKZOWDVL" ("\NKZOWDVL")
+Change component parameters: Designator = "D7" ("D7"); Footprint = "3.2X1.6X1.1"; UniqueID = "\RDAHTALV" ("\RDAHTALV")
+Change component parameters: Designator = "D8" ("D8"); Footprint = "3.2X1.6X1.1"; UniqueID = "\AUEZJINZ" ("\AUEZJINZ")
+Change component parameters: Designator = "D9" ("D9"); Footprint = "3.2X1.6X1.1"; UniqueID = "\ENKEHYJS" ("\ENKEHYJS")
+Change component parameters: Designator = "D10" ("D10"); Footprint = "3.2X1.6X1.1"; UniqueID = "\QTZFPFJO" ("\QTZFPFJO")
